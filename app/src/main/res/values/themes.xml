@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.TrekKarnataka" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1B5E20</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>
